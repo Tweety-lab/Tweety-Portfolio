@@ -35,6 +35,7 @@ body {
 #projects {
     text-align: center;
     padding: 20px;
+    padding-top: 30px;
     margin-top: 20px;
     width: calc(100% - 40px);
 }
@@ -87,18 +88,18 @@ body {
     border: 0;
     outline: 0;
 
-    width: 800px;
+    width: 700px;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.774);
     display: inline-block;
 }
 
 .project-display h3 {
-    font-size: 35px;
+    font-size: 30px;
     margin-top: 10px;
 }
 
 .project-display p {
-    font-size: 27px;
+    font-size: 25px;
     margin-left: 0;
 }
 
@@ -112,7 +113,7 @@ body {
 
 .source-link {
     color: rgb(63, 63, 63);
-    font-size: 30px;
+    font-size: 25px;
 }
 
 .colorless-shapes-img {
